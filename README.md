@@ -1,8 +1,8 @@
 # dev_Python3RH7
-Notes for Updates for Python3 on RHEL7 
+Notes for Updates for Python3 on RHEL7 <br/>
 
-$sudo  subscription-manager repos --enable rhel-7-server-optional-rpms
-$sudo yum install -y python3 python3-devel python3-libs python3-pip python3-rpm-* python3-setuptools python3-tkinter
+$sudo  subscription-manager repos --enable rhel-7-server-optional-rpms <br/>
+$sudo yum install -y python3 python3-devel python3-libs python3-pip python3-rpm-* python3-setuptools python3-tkinter <br/>
 
 #### Python3 Packages for RHEL 7
 - python3
