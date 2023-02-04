@@ -1,6 +1,8 @@
 # dev_Python3RH7
 Notes for Updates for Python3 on RHEL7 
 
+$sudo  subscription-manager repos --enable rhel-7-server-optional-rpms
+
 #### Python3 Packages for RHEL 7
 - python3
 - python3-devel
@@ -9,6 +11,9 @@ Notes for Updates for Python3 on RHEL7
 - python3-rpm-*
 - python3-setuptools
 - python3-tkinter
+
+$sudo  subscription-manager repos --enable rhel-server-rhscl-7-rpms
+
 
 #### Python3 - RedHat Software Collections
 - rh-python36-nummpy
